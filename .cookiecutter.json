@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/jsop/projects/ds.template",
+  "_repo_dir": "/root/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Claudio Jolowicz",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "mail@claudiojolowicz.com",
+  "friendly_name": "Hypermodern Python",
+  "github_user": "cjolowicz",
+  "license": "MIT",
+  "package_name": "hypermodern_python",
+  "project_name": "hypermodern-python",
+  "version": "0.0.0"
+}
