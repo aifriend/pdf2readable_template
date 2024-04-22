@@ -1,4 +1,4 @@
-# Hypermodern Python
+# Data Science Template
 
 [![PyPI](https://img.shields.io/pypi/v/pdf2readable.svg)][pypi_]
 [![Status](https://img.shields.io/pypi/status/pdf2readable.svg)][status]
@@ -31,7 +31,7 @@
 
 ## Installation
 
-You can install _Hypermodern Python_ via [pip] from [PyPI]:
+You can install _Data Science Template_ via [pip] from [PyPI]:
 
 ```console
 $ pip install pdf2readable
@@ -49,7 +49,7 @@ To learn more, see the [Contributor Guide].
 ## License
 
 Distributed under the terms of the [MIT license][license],
-_Hypermodern Python_ is free and open source software.
+_Data Science Template_ is free and open source software.
 
 ## Issues
 
@@ -62,7 +62,7 @@ This project was generated from [@aifriend]'s [Aifriend Data Science] template.
 
 [@aifriend]: https://github.com/aifriend
 [pypi]: https://pypi.org/
-[hypermodern python cookiecutter]: https://github.com/aifriend/ds_template
+[Data Science Template]: https://github.com/aifriend/ds_template
 [file an issue]: https://github.com/aifriend/ds_template/issues
 [pip]: https://pip.pypa.io/
 

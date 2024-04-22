@@ -1,8 +1,8 @@
 # Reference
 
-## hypermodern_python
+## Data Science Template
 
 ```{eval-rst}
-.. automodule:: hypermodern_python
+.. automodule:: pdf2readable
    :members:
 ```

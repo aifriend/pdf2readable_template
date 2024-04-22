@@ -2,7 +2,7 @@
 name = "pdf2readable"
 version = "0.0.0"
 description = "OCR for PDF to readable"
-authors = ["Claudio Jolowicz <mail@claudiojolowicz.com>"]
+authors = ["Jose Lopez <mail@joselopez.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/aifriend/ds_template.git"

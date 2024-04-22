@@ -2,7 +2,7 @@
 import pytest
 from click.testing import CliRunner
 
-from hypermodern_python import __main__
+from pdf2readable import __main__
 
 
 @pytest.fixture

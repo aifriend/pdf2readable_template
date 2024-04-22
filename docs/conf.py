@@ -1,7 +1,7 @@
 """Sphinx configuration."""
-project = "Hypermodern Python"
-author = "Claudio Jolowicz"
-copyright = "2024, Claudio Jolowicz"
+project = "Data Science Template"
+author = "Jose Lopez"
+copyright = "2024, Jose Lopez"
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.napoleon",
