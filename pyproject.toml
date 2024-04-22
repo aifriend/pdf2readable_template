@@ -1,19 +1,19 @@
 [tool.poetry]
-name = "hypermodern-python"
+name = "pdf2readable"
 version = "0.0.0"
-description = "Hypermodern Python"
+description = "OCR for PDF to readable"
 authors = ["Claudio Jolowicz <mail@claudiojolowicz.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/cjolowicz/hypermodern-python"
-repository = "https://github.com/cjolowicz/hypermodern-python"
-documentation = "https://hypermodern-python.readthedocs.io"
+homepage = "https://github.com/aifriend/ds_template.git"
+repository = "https://github.com/aifriend/ds_template.git"
+documentation = "https://pdf2readable.readthedocs.io"
 classifiers = [
     "Development Status :: 1 - Planning",
 ]
 
 [tool.poetry.urls]
-Changelog = "https://github.com/cjolowicz/hypermodern-python/releases"
+Changelog = "https://github.com/aifriend/pdf2readable/releases"
 
 [tool.poetry.dependencies]
 python = "^3.7"
@@ -46,7 +46,7 @@ xdoctest = {extras = ["colors"], version = ">=0.15.10"}
 myst-parser = {version = ">=0.16.1"}
 
 [tool.poetry.scripts]
-hypermodern-python = "hypermodern_python.__main__:main"
+pdf2readable = "pdf2readable.__main__:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
@@ -54,7 +54,7 @@ tests = ["tests", "*/tests"]
 
 [tool.coverage.run]
 branch = true
-source = ["hypermodern_python", "tests"]
+source = ["pdf2readable", "tests"]
 
 [tool.coverage.report]
 show_missing = true

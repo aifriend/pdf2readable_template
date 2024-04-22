@@ -1,7 +1,7 @@
 # Usage
 
 ```{eval-rst}
-.. click:: hypermodern_python.__main__:main
-    :prog: hypermodern-python
+.. click:: pdf2readable.__main__:main
+    :prog: pdf2readable
     :nested: full
 ```

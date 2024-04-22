@@ -12,9 +12,9 @@ Here is a list of important resources for contributors:
 - [Code of Conduct]
 
 [mit license]: https://opensource.org/licenses/MIT
-[source code]: https://github.com/cjolowicz/hypermodern-python
-[documentation]: https://hypermodern-python.readthedocs.io/
-[issue tracker]: https://github.com/cjolowicz/hypermodern-python/issues
+[source code]: https://github.com/aifriend/ds_template
+[documentation]: https://pdf2readable.readthedocs.io/
+[issue tracker]: https://github.com/aifriend/ds_template/issues
 
 ## How to report a bug
 
@@ -54,7 +54,7 @@ or the command-line interface:
 
 ```console
 $ poetry run python
-$ poetry run hypermodern-python
+$ poetry run pdf2readable
 ```
 
 [poetry]: https://python-poetry.org/
@@ -108,7 +108,7 @@ $ nox --session=pre-commit -- install
 It is recommended to open an issue before starting work on anything.
 This will allow a chance to talk it over with the owners and validate your approach.
 
-[pull request]: https://github.com/cjolowicz/hypermodern-python/pulls
+[pull request]: https://github.com/aifriend/ds_template/pulls
 
 <!-- github-only -->
 

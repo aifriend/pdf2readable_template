@@ -1,23 +1,23 @@
 # Hypermodern Python
 
-[![PyPI](https://img.shields.io/pypi/v/hypermodern-python.svg)][pypi_]
-[![Status](https://img.shields.io/pypi/status/hypermodern-python.svg)][status]
-[![Python Version](https://img.shields.io/pypi/pyversions/hypermodern-python)][python version]
-[![License](https://img.shields.io/pypi/l/hypermodern-python)][license]
+[![PyPI](https://img.shields.io/pypi/v/pdf2readable.svg)][pypi_]
+[![Status](https://img.shields.io/pypi/status/pdf2readable.svg)][status]
+[![Python Version](https://img.shields.io/pypi/pyversions/pdf2readable)][python version]
+[![License](https://img.shields.io/pypi/l/pdf2readable)][license]
 
-[![Read the documentation at https://hypermodern-python.readthedocs.io/](https://img.shields.io/readthedocs/hypermodern-python/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/cjolowicz/hypermodern-python/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/cjolowicz/hypermodern-python/branch/main/graph/badge.svg)][codecov]
+[![Read the documentation at https://pdf2readable.readthedocs.io/](https://img.shields.io/readthedocs/pdf2readable/latest.svg?label=Read%20the%20Docs)][read the docs]
+[![Tests](https://github.com/aifriend/pdf2readable/workflows/Tests/badge.svg)][tests]
+[![Codecov](https://codecov.io/gh/aifriend/pdf2readable/branch/main/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
 
-[pypi_]: https://pypi.org/project/hypermodern-python/
-[status]: https://pypi.org/project/hypermodern-python/
-[python version]: https://pypi.org/project/hypermodern-python
-[read the docs]: https://hypermodern-python.readthedocs.io/
-[tests]: https://github.com/cjolowicz/hypermodern-python/actions?workflow=Tests
-[codecov]: https://app.codecov.io/gh/cjolowicz/hypermodern-python
+[pypi_]: https://pypi.org/project/pdf2readable/
+[status]: https://pypi.org/project/pdf2readable/
+[python version]: https://pypi.org/project/pdf2readable
+[read the docs]: https://pdf2readable.readthedocs.io/
+[tests]: https://github.com/aifriend/ds_template/actions?workflow=Tests
+[codecov]: https://app.codecov.io/gh/pdf2readable
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
 
@@ -34,7 +34,7 @@
 You can install _Hypermodern Python_ via [pip] from [PyPI]:
 
 ```console
-$ pip install hypermodern-python
+$ pip install pdf2readable
 ```
 
 ## Usage
@@ -58,16 +58,16 @@ please [file an issue] along with a detailed description.
 
 ## Credits
 
-This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter] template.
+This project was generated from [@aifriend]'s [Aifriend Data Science] template.
 
-[@cjolowicz]: https://github.com/cjolowicz
+[@aifriend]: https://github.com/aifriend
 [pypi]: https://pypi.org/
-[hypermodern python cookiecutter]: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-[file an issue]: https://github.com/cjolowicz/hypermodern-python/issues
+[hypermodern python cookiecutter]: https://github.com/aifriend/ds_template
+[file an issue]: https://github.com/aifriend/ds_template/issues
 [pip]: https://pip.pypa.io/
 
 <!-- github-only -->
 
-[license]: https://github.com/cjolowicz/hypermodern-python/blob/main/LICENSE
-[contributor guide]: https://github.com/cjolowicz/hypermodern-python/blob/main/CONTRIBUTING.md
-[command-line reference]: https://hypermodern-python.readthedocs.io/en/latest/usage.html
+[license]: https://github.com/aifriend/ds_template/blob/main/LICENSE
+[contributor guide]: https://github.com/aifriend/ds_template/blob/main/CONTRIBUTING.md
+[command-line reference]: https://pdf2readable.readthedocs.io/en/latest/usage.html
